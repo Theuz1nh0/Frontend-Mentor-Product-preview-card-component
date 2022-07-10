@@ -1,0 +1,52 @@
+#conteudo-completo {
+    border: 1px solid #eee9e5;
+    border-radius: 8px;
+    flex-direction: column;
+    margin-top: 6%;
+    width: 92%;
+}
+
+#perfume-image-desktop {
+    display: none;
+}
+
+#perfume-image-mobile {
+    border-radius: 8px 8px 0 0;
+    display: block;
+    height: 240px;
+}
+
+#corpo-pagina {
+    padding: 25px;
+    width: 100%;
+}
+
+#titulo-do-corpo,
+#descricao-do-perfume {
+    font-size: 13px;
+}
+
+#titulo-do-corpo {
+    margin-bottom: 15px;
+}
+
+#nome-d0-perfume {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#descricao-do-perfume {
+    margin-bottom: 45px;
+}
+
+#preços {
+    margin-bottom: 20px;
+}
+
+#valor-atual {
+    font-size: 32px;
+}
+
+#adicionar-ao-carrinho {
+    width: 100%;
+}
