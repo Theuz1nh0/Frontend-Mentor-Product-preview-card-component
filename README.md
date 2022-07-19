@@ -66,4 +66,4 @@ I intend to continue studying about responsive web design and flexbox, as well a
 ## Author
 
 - Frontend Mentor - [@Theuz1nh0](https://www.frontendmentor.io/profile/Theuz1nh0)
-- Instagram - [@mateus_moura_01](https://www.instagram.com/mateus_moura_01/)
+- Linkedin - [@theuz1nh0](https://www.linkedin.com/in/theuz1nh0/)
